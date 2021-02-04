@@ -26,7 +26,7 @@ int main()
     
     //look at Cplusplus site and look at some methods
     
-    cout << Power(&1, &5, &3);
+    std::cout << Power(&1, &5, &3);
     
 }
 
